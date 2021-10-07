@@ -13,8 +13,8 @@ Items used:
 •	Agile methodology
 •	User stories
 •	Use case diagrams
-•	Notion – kaban
-•	Figma for mockups
+•	Notion – kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
+•	Figma for mockups https://www.figma.com/file/onTiaEmihHFunB6qzyzeFC/Learn?node-id=262%3A5489
 
 Competencies assessed
 
@@ -40,8 +40,8 @@ Pour plus d'informations (scénario, etc.) sur ce projet, veuillez consulter le 
 •	Méthodologie Agile
 •	User Stories
 •	Diagrammes de cas d'utilisation
-•	Notion - kaban
-•	Figma pour les maquettes
+•	Notion - kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
+•	Figma pour les maquettes https://www.figma.com/file/onTiaEmihHFunB6qzyzeFC/Learn?node-id=262%3A5489
 
 Compétences évaluées
 
