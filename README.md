@@ -6,6 +6,7 @@ Define the needs for a tutoring app
 
 Learn@Home is an association that connects children with academic difficulties with volunteer tutors. Basically, their goal is to allow any student, anywhere, to have access to remote tutoring.
 They want to make it easier for their students and volunteers to communicate directly from their site. Until now they were mostly using WhatsApp and SMS!
+
 For more information (scenario, etc.) on this project, please see the "Project brief" folder.
 
 Items used: 
@@ -37,7 +38,7 @@ Pour plus d'informations (scénario, etc.) sur ce projet, veuillez consulter le 
 Éléments utilisés : 
 
 •	Méthodologie Agile
-•	Histoires d'utilisateurs
+•	User Stories
 •	Diagrammes de cas d'utilisation
 •	Notion - kaban
 •	Figma pour les maquettes
