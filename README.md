@@ -1,4 +1,4 @@
-![Learn@Home](logo.jpg)
+![Learn@Home](Logo.jpg)
 
 # OPENCLASSROOMS PROJECT 10 *(English)*
 
