@@ -1,6 +1,8 @@
-Learn@Home
+![Learn@Home](logo.jpg)
 
-Define the needs for a tutoring app
+# OPENCLASSROOMS PROJECT 10 *(English)*
+
+## Define the needs for a tutoring app
 
 (This project is part of the "Front-End Developer" training by OpenClassrooms).
 
@@ -9,24 +11,28 @@ They want to make it easier for their students and volunteers to communicate dir
 
 For more information (scenario, etc.) on this project, please see the "Project brief" folder.
 
-Items used: 
-•	Agile methodology
-•	User stories
-•	Use case diagrams
-•	Notion – kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
-•	Figma for mockups https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home
 
-Competencies assessed
+## Items used: 
 
-•	Contribute to a project using an agile methodology
-•	Create a model for a client
-•	Identify the needs of the application from a specification
-•	Model a technical solution for a client
+-	Agile methodology
+-	User stories
+-	Use case diagrams
+-	Notion – kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
+-	Figma for mockups https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home
 
 
-Learn@Home
+## Competencies assessed
 
-Définir les besoins d'une application de tutorat
+- [x] Contribute to a project using an agile methodology
+- [x]	Create a model for a client
+- [x]	Identify the needs of the application from a specification
+- [x]	Model a technical solution for a client
+
+
+
+# OPENCLASSROOMS PROJECT 10 *(Francais)*
+
+## Définir les besoins d'une application de tutorat
 
 (Ce projet fait partie de la formation "Développeur Front-End" d'OpenClassrooms).
 
@@ -35,19 +41,20 @@ Ils veulent faciliter la communication entre leurs élèves et les bénévoles d
 
 Pour plus d'informations (scénario, etc.) sur ce projet, veuillez consulter le dossier "Project brief".
 
-Éléments utilisés : 
 
-•	Méthodologie Agile
-•	User Stories
-•	Diagrammes de cas d'utilisation
-•	Notion - kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
-•	Figma pour les maquettes https://www.figma.com/file/onTiaEmihHFunB6qzyzeFC/Learn?node-id=262%3A5489
+## Éléments utilisés : 
 
-Compétences évaluées
+- Méthodologie Agile
+-	User Stories
+-	Diagrammes de cas d'utilisation
+-	Notion - kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
+-	Figma pour les maquettes https://www.figma.com/file/onTiaEmihHFunB6qzyzeFC/Learn?node-id=262%3A5489
 
-•	Contribuer à un projet en utilisant une méthodologie agile
-•	Créer une maquette pour un client
-•	Identifier les besoins de l'application à partir d'un cahier des charges
-•	Modéliser une solution technique pour un client
+## Compétences évaluées
+
+- [x]	Contribuer à un projet en utilisant une méthodologie agile
+- [x]	Créer une maquette pour un client
+- [x]	Identifier les besoins de l'application à partir d'un cahier des charges
+- [x]	Modéliser une solution technique pour un client
 
 
