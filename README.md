@@ -34,7 +34,7 @@ To facilitate interaction and communication, Learn@Home would like to create a n
 -	Use case diagrams
 -	[kaban - Project user stories](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
 -	[Figma - Project mockups](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
-- Further information can be found in  the folder `Project Brief`
+
 
 ## Competencies assessed
 
@@ -69,7 +69,7 @@ Pour faciliter l'interaction et la communication, Learn@Home souhaite créer un 
 - Maquettes du site avec un design simple et au moins une maquette par page - voir Figma
 
 ## Resources
-Pour plus d'informations  sur ce projet, veuillez consulter le dossier "Project brief".
+Vous trouverez plus d'informations dans le dossier `Project Brief`
 
 
 ## Utilisés : 
@@ -79,7 +79,7 @@ Pour plus d'informations  sur ce projet, veuillez consulter le dossier "Project 
 -	Diagrammes de cas d'utilisation
 -	[Kaban - Projet user stories](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
 -	[Figma - Projet mockups](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
-- Vous trouverez plus d'informations dans le dossier `Project Brief`
+
 
 ## Compétences évaluées
 
