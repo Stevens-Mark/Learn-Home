@@ -1,4 +1,4 @@
-![Learn@Home](Logo.jpg)
+![Learn@Home](logo.jpg)
 
 # OPENCLASSROOMS PROJECT 10 *(English)*
 
@@ -87,5 +87,4 @@ Pour plus d'informations  sur ce projet, veuillez consulter le dossier "Project 
 - [x]	Créer une maquette pour un client
 - [x]	Identifier les besoins de l'application à partir d'un cahier des charges
 - [x]	Modéliser une solution technique pour un client
-
 
