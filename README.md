@@ -6,10 +6,25 @@
 
 (This project is part of the "Front-End Developer" training by OpenClassrooms).
 
-Learn@Home is an association that connects children with academic difficulties with volunteer tutors. Basically, their goal is to allow any student, anywhere, to have access to remote tutoring.
-They want to make it easier for their students and volunteers to communicate directly from their site. Until now they were mostly using WhatsApp and SMS!
+Learn@Home is an association that brings together children with learning difficulties and volunteers, online. Their objective is to allow any student, wherever he or she may be, to access distance learning support.
+Each student registered on the site has a volunteer tutor assigned to them. The aim of the volunteer is to support the student in his/her learning through short appointments scheduled each week. During these appointments, the volunteer helps the student with homework and organisation.
 
-For more information (scenario, etc.) on this project, please see the "Project brief" folder.
+To facilitate interaction and communication, Learn@Home would like to create a new website, which consists of the following pages
+1. A login page
+2. A dashboard page
+3. A chat interface page
+4. A calendar page
+5. A task management page
+
+## Objective
+- Clearly define the client's needs, before starting the pure software development
+- For a scheduled meeting the objective to present Learn@Home with the following elements:
+- Use case diagrams for each of the major functionalities of each page (login, chat, calendar, task manager, dashboard) - see Kaban
+- User stories with acceptance criteria for each feature, shared in a standard format (PDF, DOCX, XLSX) - see Kaban
+- Mock-ups of the site with a simple design and at least one mock-up per page - see Figma
+
+## Resources
+- Further information on this project, please see the the folder `Project Brief`
 
 
 ## Items used: 
@@ -36,10 +51,25 @@ For more information (scenario, etc.) on this project, please see the "Project b
 
 (Ce projet fait partie de la formation "Développeur Front-End" d'OpenClassrooms).
 
-Learn@Home est une association qui met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles. En gros, leur objectif est de permettre à n'importe quel élève, n'importe où, d'avoir accès à un tutorat à distance.
-Ils veulent faciliter la communication entre leurs élèves et les bénévoles directement depuis leur site. Jusqu'à présent, ils utilisaient principalement WhatsApp et les SMS !
+Learn@Home est une association qui met en relation des enfants ayant des difficultés d'apprentissage et des bénévoles, en ligne. Leur objectif est de permettre à tout élève, où qu'il se trouve, d'accéder à un soutien scolaire à distance.
+Chaque élève inscrit sur le site a un tuteur bénévole qui lui est attribué. L'objectif du bénévole est de soutenir l'étudiant dans son apprentissage grâce à de courts rendez-vous programmés chaque semaine. Au cours de ces rendez-vous, le bénévole aide l'élève à faire ses devoirs et à s'organiser.
 
-Pour plus d'informations (scénario, etc.) sur ce projet, veuillez consulter le dossier "Project brief".
+Pour faciliter l'interaction et la communication, Learn@Home souhaite créer un nouveau site web, qui se compose des pages suivantes
+1. Une page de connexion
+2. Une page de tableau de bord
+3. Une page d'interface de chat
+4. Une page de calendrier
+5. Une page de gestion des tâches
+
+## Objectif
+- Définir clairement les besoins du client, avant de commencer le développement du logiciel pur.
+- Pour une réunion prévue, l'objectif est de présenter Learn@Home avec les éléments suivants :
+- Des diagrammes de cas d'utilisation pour chacune des principales fonctionnalités de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord) - voir Kaban
+- User stories avec critères d'acceptation pour chaque fonctionnalité, partagées dans un format standard (PDF, DOCX, XLSX) - voir Kaban
+- Maquettes du site avec un design simple et au moins une maquette par page - voir Figma
+
+## Resources
+Pour plus d'informations  sur ce projet, veuillez consulter le dossier "Project brief".
 
 
 ## Éléments utilisés : 
