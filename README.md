@@ -1,4 +1,4 @@
-![Learn@Home](logo.jpg)
+![Learn@Home](Logo.jpg)
 
 # OPENCLASSROOMS PROJECT 10 *(English)*
 
@@ -27,13 +27,13 @@ To facilitate interaction and communication, Learn@Home would like to create a n
 - Further information on this project, please see the the folder `Project Brief`
 
 
-## Items used: 
+## Used: 
 
 -	Agile methodology
 -	User stories
 -	Use case diagrams
--	[Notion – kaban](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
--	[Figma](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
+-	[kaban - Project user stories](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
+-	[Figma - Project mockups](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
 - Further information can be found in  the folder `Project Brief`
 
 ## Competencies assessed
@@ -72,13 +72,13 @@ Pour faciliter l'interaction et la communication, Learn@Home souhaite créer un 
 Pour plus d'informations  sur ce projet, veuillez consulter le dossier "Project brief".
 
 
-## Éléments utilisés : 
+## Utilisés : 
 
 - Méthodologie Agile
 -	User Stories
 -	Diagrammes de cas d'utilisation
--	[Notion – kaban](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
--	[Figma](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
+-	[Kaban - Projet user stories](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
+-	[Figma - Projet mockups](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
 - Vous trouverez plus d'informations dans le dossier `Project Brief`
 
 ## Compétences évaluées
