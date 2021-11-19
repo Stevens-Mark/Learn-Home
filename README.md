@@ -17,9 +17,9 @@ For more information (scenario, etc.) on this project, please see the "Project b
 -	Agile methodology
 -	User stories
 -	Use case diagrams
--	Notion – kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
--	Figma for mockups https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home
-
+-	[Notion – kaban](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
+-	[Figma](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
+- Further information can be found in  the folder `Project Brief`
 
 ## Competencies assessed
 
@@ -47,8 +47,9 @@ Pour plus d'informations (scénario, etc.) sur ce projet, veuillez consulter le 
 - Méthodologie Agile
 -	User Stories
 -	Diagrammes de cas d'utilisation
--	Notion - kaban  https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808
--	Figma pour les maquettes https://www.figma.com/file/onTiaEmihHFunB6qzyzeFC/Learn?node-id=262%3A5489
+-	[Notion – kaban](https://www.notion.so/Dev4U-projet-Learn-Home-26d86bc3a73e4cdaa3c43d9c1effd808)
+-	[Figma](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
+- Vous trouverez plus d'informations dans le dossier `Project Brief`
 
 ## Compétences évaluées
 
