@@ -1,10 +1,8 @@
 ![Learn@Home](Logo.jpg)
 
-# OPENCLASSROOMS PROJECT 10 *(English)*
+# Learn@Home
 
 ## Define the needs for a tutoring app
-
-(This project is part of the "Front-End Developer" training by OpenClassrooms).
 
 Learn@Home is an association that brings together children with learning difficulties and volunteers, online. Their objective is to allow any student, wherever he or she may be, to access distance learning support.
 Each student registered on the site has a volunteer tutor assigned to them. The aim of the volunteer is to support the student in his/her learning through short appointments scheduled each week. During these appointments, the volunteer helps the student with homework and organisation.
@@ -36,7 +34,7 @@ To facilitate interaction and communication, Learn@Home would like to create a n
 -	[Figma - Project mockups](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
 
 
-## Competencies assessed
+## Competencies
 
 - [x] Contribute to a project using an agile methodology
 - [x]	Create a model for a client
@@ -45,11 +43,9 @@ To facilitate interaction and communication, Learn@Home would like to create a n
 
 
 
-# OPENCLASSROOMS PROJECT 10 *(Francais)*
+# Learn@Home
 
 ## Définir les besoins d'une application de tutorat
-
-(Ce projet fait partie de la formation "Développeur Front-End" d'OpenClassrooms).
 
 Learn@Home est une association qui met en relation des enfants ayant des difficultés d'apprentissage et des bénévoles, en ligne. Leur objectif est de permettre à tout élève, où qu'il se trouve, d'accéder à un soutien scolaire à distance.
 Chaque élève inscrit sur le site a un tuteur bénévole qui lui est attribué. L'objectif du bénévole est de soutenir l'étudiant dans son apprentissage grâce à de courts rendez-vous programmés chaque semaine. Au cours de ces rendez-vous, le bénévole aide l'élève à faire ses devoirs et à s'organiser.
@@ -81,7 +77,7 @@ Vous trouverez plus d'informations dans le dossier `Project Brief`
 -	[Figma - Projet mockups](https://www.figma.com/file/K8QF42xb6EzUyqDOvKHAXW/Learn-at-home)
 
 
-## Compétences évaluées
+## Compétences
 
 - [x]	Contribuer à un projet en utilisant une méthodologie agile
 - [x]	Créer une maquette pour un client
